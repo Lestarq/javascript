@@ -1,4 +1,4 @@
-#LESTARQ repositorio personal de AIRBNB
+# LESTARQ repositorio personal de AIRBNB
 
 # Airbnb JavaScript Style Guide() {
 
